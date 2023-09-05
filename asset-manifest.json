@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-app-cooking/static/css/main.5bae3530.css",
+    "main.js": "/react-app-cooking/static/js/main.f7858699.js",
+    "index.html": "/react-app-cooking/index.html",
+    "main.5bae3530.css.map": "/react-app-cooking/static/css/main.5bae3530.css.map",
+    "main.f7858699.js.map": "/react-app-cooking/static/js/main.f7858699.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bae3530.css",
+    "static/js/main.f7858699.js"
+  ]
+}
