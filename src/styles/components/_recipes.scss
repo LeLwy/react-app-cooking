@@ -1,0 +1,29 @@
+.recipes-search-container{
+
+    display: flex;
+    flex-direction: column;
+
+    input{
+
+        padding: 1vh 2vw;
+        margin-bottom: 5vh;
+
+    }
+
+    .recipes-container{
+        
+    display: grid;
+    grid-row-gap: 4vh;
+    grid-column-gap: 4vw;
+        
+        @media screen and (min-width: 800px) and (max-width: 1079px){
+            
+            grid-template-columns: repeat(2, 1fr);
+        }
+        
+        @media screen and (min-width: 1080px){
+
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+}
